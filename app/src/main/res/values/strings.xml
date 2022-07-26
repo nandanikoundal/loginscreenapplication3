@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">loginscreenapplication3</string>
+    <string name="please_enter_Email">please_enter_Email</string>
+    <string name="login_successfully">Logged In Successfully</string>
+    <string name="please_enter_password">please_enter_password</string>
+    <string name="short_pass">short_pass</string>
 </resources>
